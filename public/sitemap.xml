@@ -2,169 +2,169 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
     <loc>https://e-classify-app-router.vercel.app/error</loc>
-    <lastmod>2024-07-16T11:47:26.943Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.925Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/layout</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/not-found</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/about-us</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/ad-listing</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://e-classify-app-router.vercel.app/ads</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://e-classify-app-router.vercel.app/chat</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/blogs</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://e-classify-app-router.vercel.app/ads</loc>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://e-classify-app-router.vercel.app/chat</loc>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/contact-us</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/faqs</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/favourites</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/home</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/notifications</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/privacy-policy</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/products</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/subscription</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/terms-and-condition</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/transactions</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/user</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/user-subscription</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://e-classify-app-router.vercel.app/category/[[...slug]]</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/blogs/[slug]</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://e-classify-app-router.vercel.app/category/[[...slug]]</loc>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/edit-listing/[slug]</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://e-classify-app-router.vercel.app/my-listing/[slug]</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/featured-sections/[slug]</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://e-classify-app-router.vercel.app/my-listing/[slug]</loc>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/product-details/[slug]</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://e-classify-app-router.vercel.app/profile/edit-profile</loc>
-    <lastmod>2024-07-16T11:47:26.944Z</lastmod>
+    <lastmod>2024-07-16T15:07:52.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
